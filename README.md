@@ -5,4 +5,5 @@ Retrieve images using global/ local features:
 +  Color correlogram
 +  SIFT
 +  ORB
+
 Evaluate result using MAP metrics
